@@ -64,7 +64,7 @@ To create a simple personal portfolio website as part of the CodSoft Internship 
 
 GitHub Pages Live Site:
 
-https://github.com/poornimagogulapati-a11y/codsoft-portfolio-Task1
+https://poornimagogulapati-a11y.github.io/codsoft-portfolio-Task1/
 
 ## 📸 Output Screenshot
 
