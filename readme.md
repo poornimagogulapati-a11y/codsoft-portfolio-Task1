@@ -10,9 +10,12 @@ This project is created as part of the CodSoft Web Development Internship (Level
 
 ## 👩‍💻 Intern Details
 
-**Name:** Gogulapati Lakshmi Poornima
-**Intern ID:** BY26RY206292
-**Domain:** Web Development
+**Name:** Gogulapati Lakshmi Poornima  
+
+**Intern ID:** BY26RY206292   
+
+**Domain:** Web Development     
+
 **Organization:** CodSoft
 
 ## 📖 Project Description
